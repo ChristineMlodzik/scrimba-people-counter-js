@@ -1,0 +1,51 @@
+body {
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+div {
+    background-image: url("/trainstation.jpg");
+    width: 600px;
+    height: 650px;
+    margin: 0 auto;
+    padding-top: 5px;
+    background-size: cover; 
+    font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(13, 13, 64);
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 85px;
+    color: rgb(75, 13, 13);
+}
+
+button {
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(75, 13, 13);
+}
+
+#save-btn {
+    background: rgb(13, 13, 64);
+}
+
+p {
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(13, 13, 64);
+}
